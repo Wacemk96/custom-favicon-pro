@@ -2,6 +2,8 @@
 
 Custom Favicon Pro allows users to set custom favicons for each post or page, providing a unique branding experience for WordPress websites.
 
+![Custom Favicon Pro](https://www.waseemk.com/wp-content/uploads/2024/05/Custom-Favicon-PRO1.png)
+
 ## Description
 
 Now you can effortlessly upload a favicon for your WordPress posts and pages.
